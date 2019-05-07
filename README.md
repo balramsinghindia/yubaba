@@ -23,13 +23,13 @@ It's all about **animation** 🧙✨ - it can help with:
 `yubaba` has a peer dependency on [emotion](https://emotion.sh/docs/introduction) for some of the more advanced animations.
 
 ```bash
-npm install yubaba react@^16.4.x react-dom@^16.4.x emotion@^9.x.x --save
+npm install yubaba react@^16.4.x react-dom@^16.4.x emotion@^10.x.x --save
 ```
 
 or
 
 ```bash
-yarn add yubaba react@^16.4.x react-dom@^16.4.x emotion@^9.x.x
+yarn add yubaba react@^16.4.x react-dom@^16.4.x emotion@^10.x.x
 ```
 
 ## Next steps
